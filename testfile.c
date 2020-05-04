@@ -6,4 +6,9 @@ int main(void)
     
     //new line added
     printf("Hello world again !\n");
+    
+    int a = 50;
+    int b = 70;
+    
+    int mult = a * b;
 }
